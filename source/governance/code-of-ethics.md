@@ -27,6 +27,8 @@ Team members and directors must act in the best interests of Unity Web Agency. Y
 
 Team members and directors must maintain the confidentiality of sensitive or private information entrusted to them. Unauthorized disclosure of any confidential information is prohibited. Additionally, team members should take appropriate precautions to ensure that confidential or sensitive business information, whether it is proprietary to the Company or another company, is not communicated within the Company except to team members who have a need to know such information to perform their responsibilities.
 
+Confidential information includes proprietary technical and business information belonging to you, Unity Web Agency, or our clients, and any other information marked "Confidential." It does not include any information that is in the public domain, becomes publicly known through no fault of the receiving party, is properly received from a third party without an obligation of confidentiality, or is otherwise known by the receiving party before obtaining access to it under this policy.
+
 ## Honest and Ethical Conduct
 
 Team members and directors should deal honestly, ethically, and fairly with the Unity Web Agency's suppliers, customers, competitors, and team members. Statements regarding the Company's products and services must not be untrue, misleading, deceptive or fraudulent. You must not take unfair advantage of anyone through manipulation, concealment, abuse of privileged information, misrepresentation of material facts or any other unfair-dealing practice.
