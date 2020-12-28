@@ -32,9 +32,24 @@ module.exports = {
         '8xl': '88rem'
       },
     },
+    textIndent: (theme, { negative }) => ({
+      ...{
+        sm: '1rem',
+        // md: '3rem',
+        // lg: '4rem',
+      },
+      ...negative({
+        sm: '1rem',
+        // md: '3rem',
+        // lg: '4rem',
+      }),
+    }),
   },
   variants: {
     position: ['responsive', 'hover', 'focus'],
+    textIndent: ['responsive'],
   },
-  plugins: [],
+  plugins: [
+    require('tailwindcss-text-indent')(),
+  ],
 }
