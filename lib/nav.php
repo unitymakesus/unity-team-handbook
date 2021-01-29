@@ -15,7 +15,7 @@ return [
     ],
     'Workers' => [
         'children' => [
-            // 'Breastfeeding'                       => 'workers/breastfeeding',
+            'Breastfeeding'                       => 'workers/breastfeeding',
             // 'Career Development'                  => 'workers/career-development',
             'Children at Work'                      => 'workers/children-at-work',
             // 'Disciplinary Process'                => 'workers/disciplinary',
