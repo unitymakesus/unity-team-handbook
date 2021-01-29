@@ -15,9 +15,9 @@ return [
     ],
     'Workers' => [
         'children' => [
-            // 'Babies at Work'                      => 'workers/babies-at-work',
             // 'Breastfeeding'                       => 'workers/breastfeeding',
             // 'Career Development'                  => 'workers/career-development',
+            'Children at Work'                      => 'workers/children-at-work',
             // 'Disciplinary Process'                => 'workers/disciplinary',
             // 'Drugs & Alcohol'                     => 'workers/drugs-alcohol',
             'Equal Pay'                           => 'workers/equal-pay',
