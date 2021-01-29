@@ -40,7 +40,7 @@ All team members and contractors will be responsible for following this policy a
 
 ## 5. Implementation
 
-Unity Web Agency will distribute this policy to all team members and contract workers upon hiring. In cases where the policy is adopted after an team member has been hired, the policy will be shared with the team member within 30 days of adoption.
+Unity Web Agency will distribute this policy to all team members and contract workers upon hiring. In cases where the policy is adopted after a team member has been hired, the policy will be shared with the team member within 30 days of adoption.
 
 The team members and contractors will be responsible for ensuring that all of the recommended practices will be followed.
 
