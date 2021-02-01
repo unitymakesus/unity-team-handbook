@@ -25,7 +25,7 @@ Breastfeeding parents who choose to continue providing milk for their infants af
 
 - __Milk Expression Breaks:__ Breastfeeding parents are allowed to breastfeed or express milk during work hours using their normal breaks and meal times. For time that may be needed beyond the usual break times, team members may use personal leave or may make up the time as negotiated with their supervisors.
 
-- __A Place to Express Milk:__ A private room (not a toilet stall or restroom) shall be available for team members to breastfeed or express milk. The room will be private and sanitary, located near a sink with running water for washing hands and rinsing out breast pump parts, and have an electrical outlet. Expressed milk may be stored in a closed and labeled container in the Unity Web Agency refrigerator or team member's personal cooler.
+- __A Place to Express Milk:__ Suite 3313 is available for team members to breastfeed or express milk. The room is private and sanitary, located near a sink with running water for washing hands and rinsing out breast pump parts, and as an electrical outlet. Expressed milk may be stored in a closed and labeled container in the Unity Web Agency refrigerator or team member's personal cooler.
 
 - __Team Support:__ Supervisors are responsible for alerting pregnant and breastfeeding team members about the company's breastfeeding support program, and for negotiating policies and practices that will help facilitate each team member's infant feeding goals. It is expected that all team members will assist in providing a positive atmosphere of support for breastfeeding team members.
 
