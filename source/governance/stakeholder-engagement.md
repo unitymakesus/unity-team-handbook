@@ -30,7 +30,7 @@ This Policy is adopted so that Unity Web Agency may:
 
 ## Scope
 
-This policy shall apply to Unity Web Agency’s CEO and Advisors.
+This policy shall apply to Unity Web Agency's CEO and Advisors.
 
 ## Responsibilities
 

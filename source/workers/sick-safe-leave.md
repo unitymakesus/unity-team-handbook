@@ -24,7 +24,7 @@ Up to __40__ hours of sick or safe time leave under this policy carries over at 
 Sick or safe time can be used for:
 
 1. The team member's own illness, injury, or medical condition;
-2. The team member's need to obtain diagnosis or treatment or preventive care (i.e., doctor’s appointments);
+2. The team member's need to obtain diagnosis or treatment or preventive care (i.e., doctor's appointments);
 3. The team member's need to care for a family member for reasons covered by Nos. (1) and (2), above;
 4. An absence resulting from the team member or a family member becoming a victim of stalking, domestic violence, or sexual abuse.
 

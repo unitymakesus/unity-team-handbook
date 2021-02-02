@@ -52,7 +52,7 @@ Before any child is brought into the workplace, the Pre-Program Meeting must tak
 
 ## Children Performing Company Tasks
 
-At the discretion of their parents, children brought to work under this policy may volunteer to assist with basic tasks on the premises if they wish (such as handing out materials, making copies, etc.). If children wish to participate in work-related activities at Unity, tasks that other employees may suggest for them to complete must first be discussed with the child's parent. No one but the child's parent shall ask the child to complete a work-related task.
+At the discretion of their parents, children brought to work under this policy may volunteer to assist with basic tasks on the premises if they wish (such as handing out materials, making copies, etc.). If children wish to participate in work-related activities at Unity, tasks that other team members may suggest for them to complete must first be discussed with the child's parent. No one but the child's parent shall ask the child to complete a work-related task.
 
 Children under 14 years of age must not be asked, even by their parent, to do more than rudimentary, occasional tasks, and no child under 14 years of age shall be required or pressured to do company-related tasks. A child's participation in work-related tasks must be purely voluntary on the park of the child.
 

@@ -24,3 +24,19 @@ Unity Web Agency pays all team members on a monthly basis via direct deposit. Pa
 ## Living Wage
 
 We believe that all workers need a living wage, which is defined as the amount of income needed for an individual or family to meet basic needs such as housing, food, and transportation without public or private assistance. Unity Web Agency is a member of the [Durham Living Wage Project](https://www.durhamlivingwageproject.org/).
+
+## Responsibilities
+
+Unity Web Agency will be responsible for providing this policy to all team members and contractor workers and for providing ongoing support as needed.
+
+HR and management will be responsible for reviewing wages on a regular basis, conducting performance reviews, and documenting all pay related decision making and activity.
+
+All team members and contractors will be responsible for following this policy and contacting management with any questions or concerns.
+
+## Implementation
+
+Unity Web Agency will distribute this policy to all team members and contract workers upon hiring. In cases where the policy is adopted after a team member has been hired, the policy will be shared with the team member within 30 days of adoption.
+
+## Program Evaluation
+
+Unity Web Agency will check in with all team members and contractors on a regular basis, at least annually as part of a review process, to ensure that this policy is being followed and that team members are being supported through fair wage policies.

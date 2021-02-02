@@ -14,7 +14,7 @@ It is the policy of Unity Web Agency to encourage all team members and managers 
 Unity Web Agency will:
 
 * Encourage all team members and contractors to report any inappropriate conduct or behavior that they observe, including falsifying documents, providing misleading information, or handling company funds or equipment inappropriately, to their supervisors
-* Protect the confidentiality of any team members, managers, or contractors who bring these concerns to the company’s attention
+* Protect the confidentiality of any team members, managers, or contractors who bring these concerns to the company's attention
 * Thoroughly investigate the allegations to determine whether the actions occurred as a result of a mistake or were done with intent to deceive
 * Provide training or remediation as necessary if the inappropriate conduct was the result of a mistake due to lack of training or awareness
 * Take appropriate action if the conduct was intentional, including but not limited to verbal and/or written warnings or termination from the company
