@@ -3,16 +3,16 @@
 return [
     'Governance' => [
         'children' => [
-            'Anti-Harassment'                => 'governance/anti-harassment',
-            'B Corporation'                  => 'governance/b-corporation',
-            'Code of Ethics'                 => 'governance/code-of-ethics',
-            'Diversity, Equity, & Inclusion' => 'governance/dei',
-            'Financial Transparency'         => 'governance/financial-transparency',
-            'Impact Reporting'               => 'governance/impact-reporting',
-            'Mission & Values'               => 'governance/mission',
-            'Non-Discrimination'             => 'governance/non-discrimination',
-            'Stakeholder Engagement'         => 'governance/stakeholder-engagement',
-            'Whistleblower Policy'           => 'governance/whistleblower',
+            'Anti-Harassment'        => 'governance/anti-harassment',
+            'B Corporation'          => 'governance/b-corporation',
+            'Code of Ethics'         => 'governance/code-of-ethics',
+            'Diversity & Inclusion'  => 'governance/dei',
+            'Financial Transparency' => 'governance/financial-transparency',
+            'Impact Reporting'       => 'governance/impact-reporting',
+            'Mission & Values'       => 'governance/mission',
+            'Non-Discrimination'     => 'governance/non-discrimination',
+            'Stakeholder Engagement' => 'governance/stakeholder-engagement',
+            'Whistleblower Policy'   => 'governance/whistleblower',
         ],
     ],
     'Workers' => [
@@ -52,7 +52,7 @@ return [
     ],
     'Environment' => [
         'children' => [
-            'Alternative Transit'             => 'environment/alt-transit',
+            'Alternative Transit'        => 'environment/alt-transit',
             // 'Corporate Travel'           => 'environment/corporate-travel',
             'Environmental Policy'       => 'environment/policy',
             'Hazardous Waste Disposal'   => 'environment/hazardous-waste',
@@ -61,8 +61,8 @@ return [
     ],
     'Customers' => [
         'children' => [
-            // 'Data & Privacy'    => 'customers/data-privacy',
-            // 'Ethical Marketing' => 'customers/ethical-marketing',
+            'Data & Privacy'    => 'customers/data-privacy',
+            'Ethical Marketing' => 'customers/ethical-marketing',
         ],
     ],
 ];

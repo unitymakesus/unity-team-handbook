@@ -16,7 +16,7 @@ Unity Web Agency will:
 * Ensure that all information shared is without filters
 * Regularly review the information being shared is accurate and up to date
 
-## 2. Purpose
+## Purpose
 
 This policy is adopted so that Unity Web Agency may:
 
@@ -27,22 +27,22 @@ This policy is adopted so that Unity Web Agency may:
 
 This policy sets out transparency practices that align with socially and environmentally responsible business practices such as those followed by Certified B Corps.
 
-## 3. Scope
+## Scope
 
 This policy shall apply to all financial information that is not individual personnel information.
 
-## 4. Responsibilities
+## Responsibilities
 
 Unity Web Agency will be responsible for providing up to date and accurate financial information.
 
 All team members and contractors will be responsible for upholding this policy and contacting the Unity Web Agency with any questions or concerns.
 
-## 5. Implementation
+## Implementation
 
 Unity Web Agency will make all team members aware of this policy.
 
 The team members and contractors will be responsible for ensuring that Unity Web Agency is following this policy.
 
-## 6. Program Evaluation
+## Program Evaluation
 
 Unity Web Agency will routinely check all financial information to ensure that it is available and accurate.
