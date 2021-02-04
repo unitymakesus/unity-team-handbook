@@ -3,15 +3,16 @@
 return [
     'Governance' => [
         'children' => [
-            'Anti-Harassment'        => 'governance/anti-harassment',
-            'B Corporation'          => 'governance/b-corporation',
-            'Code of Ethics'         => 'governance/code-of-ethics',
-            'Financial Transparency' => 'governance/financial-transparency',
-            'Impact Reporting'       => 'governance/impact-reporting',
-            'Mission & Values'       => 'governance/mission',
-            'Non-Discrimination'     => 'governance/non-discrimination',
-            'Stakeholder Engagement' => 'governance/stakeholder-engagement',
-            'Whistleblower Policy'   => 'governance/whistleblower',
+            'Anti-Harassment'                => 'governance/anti-harassment',
+            'B Corporation'                  => 'governance/b-corporation',
+            'Code of Ethics'                 => 'governance/code-of-ethics',
+            'Diversity, Equity, & Inclusion' => 'governance/dei',
+            'Financial Transparency'         => 'governance/financial-transparency',
+            'Impact Reporting'               => 'governance/impact-reporting',
+            'Mission & Values'               => 'governance/mission',
+            'Non-Discrimination'             => 'governance/non-discrimination',
+            'Stakeholder Engagement'         => 'governance/stakeholder-engagement',
+            'Whistleblower Policy'           => 'governance/whistleblower',
         ],
     ],
     'Workers' => [
