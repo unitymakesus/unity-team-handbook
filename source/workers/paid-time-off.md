@@ -21,6 +21,14 @@ Unused PTO under this policy carries over at the end of each calendar year. Full
 
 Unused PTO is eligible to be paid out at the end of employment, based on certain conditions. Team members who leave voluntarily, are laid off, or let go due to performance reasons will receive a cash payout of unused PTO. However, team members who are let go due to a violation of company policies forfeit this benefit and will not receive a cash payout of unused PTO.
 
+### What if I want to use more PTO than I have accrued?
+
+In certain circumstances, Unity may allow team members to take PTO before they have accrued it, meaning they would have a negative balance of PTO. Requests for using unearned PTO will be reviewed on a case-by-case basis.
+
+Team members may pay back a negative PTO balance by continuing to work for Unity until they earn enough paid time off to have a positive PTO balance.
+
+The federal wage and hour law does not recognize the advancement of unearned PTO as wages. Therefore, if a team member leaves Unity with a negative PTO balance, Unity will deduct the amount that was advanced from their final paycheck.
+
 ## Process
 
 Requests for time off should be submitted through [Hrvey](https://www.hrvey.com/dashboard).
