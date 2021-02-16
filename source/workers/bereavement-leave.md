@@ -41,6 +41,8 @@ If you need to take bereavement leave, please inform your manager and HR as soon
 
 After speaking with your manager, requests for Bereavement Leave should be submitted through [Hrvey](https://www.hrvey.com/dashboard).
 
+The following guidelines should be used when requesting time off:
+
 - Please select "Paid Leave" and enter "Bereavement Leave" in the notes field.
 
 Normally, we don’t require proof of death. However Unity may, in unusual circumstances, require verification of the need for the bereavement leave.
