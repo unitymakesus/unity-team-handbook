@@ -17,6 +17,7 @@ return [
     ],
     'Workers' => [
         'children' => [
+            'Bereavement Leave'                   => 'workers/bereavement-leave',
             'Breastfeeding'                       => 'workers/breastfeeding',
             'Career Development'                  => 'workers/career-development',
             'Children at Work'                    => 'workers/children-at-work',
@@ -36,6 +37,7 @@ return [
             'QCs / Performance Reviews'           => 'workers/performance-reviews',
             'Remote Work'                         => 'workers/remote-work',
             'Satisfaction & Engagement Surveys'   => 'workers/satisfaction-engagement',
+            'Sick & Safe Leave'                   => 'workers/sick-safe-leave',
             // 'Teamwork Tools'                      => 'workers/teamwork-tools',
             'Training'                            => 'workers/training',
             'Work Hours'                          => 'workers/work-hours',
