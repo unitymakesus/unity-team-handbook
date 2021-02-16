@@ -31,7 +31,7 @@ This sick leave policy applies to full- or part-time (20 hours per week or more)
 
 ### What is considered immediate family for bereavement leave?
 
-In this policy, we define immediate family as spouses or domestic partners, all first degree relatives (parents, siblings, and children &mdash; including half, step, adopted, and fostered), grandparents, grandchildren, aunts, uncles, nieces and nephews. In-laws of the same types are included.
+In this policy, we define immediate family as spouses or domestic partners, all first degree relatives (parents, siblings, and children &mdash; including half, step, adopted, and fostered), grandparents, grandchildren, aunts, uncles, first cousins, nieces, and nephews. In-laws of the same types are included.
 
 Friends are also an important part of our lives and their loss may hurt as much as losing a relative. Should you lose a close friend, you’re still entitled to the same amount of bereavement leave to attend the funeral and mourn.
 
