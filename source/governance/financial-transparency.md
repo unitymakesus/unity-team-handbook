@@ -7,18 +7,24 @@ section: content
 
 # Financial Transparency Policy
 
-It is the policy of Unity Web Agency to be committed to financial transparency. All information about fiscal and financial operations is to be shared with team members without any filters. This policy has been created in order to provide processes to do so.
+Unity Web Agency operates using an Open Book Management approach. This approach has been adopted in order to empower team members to make decisions that will help the company to increase its profitability as well as to strengthen the company's overall management and operations.
 
 Unity Web Agency will:
 
-* Disclose all financial information (except personnel info) at least quarterly
+* Disclose all financial information at least annually
 * Provide team members with an intentional education program around shared financials
 * Ensure that all information shared is without filters
 * Regularly review the information being shared is accurate and up to date
 
 ## Purpose
 
-This policy is adopted so that Unity Web Agency may:
+This policy is adopted so that team members are able to:
+
+- Review the income and balance sheet for the company
+- Understand how the company's financials are managed
+- Learn how to understand the company's financial reports and practices
+
+Futhermore, this policy supports Unity Web Agency to:
 
 * Be in honest and truthful in the representation of all information
 * Provide transparency for all team members in regards to financial information

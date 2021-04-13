@@ -13,33 +13,15 @@ Unity Web Agency will:
 
 - Communicate a clear code of conduct/set of standards/performance expectations to team members (in orientations, trainings, bulletins, etc.).
 - Employ performance reviews, onboarding orientations, and training programs to prevent behaviors from occurring in the first place and fostering a transparent, respectful, and collaborative work environment.
-- Provide written guidance on the disciplinary policy to team members, including which types of infractions will result in which level of beginning disciplinary action (including which may result in immediate termination).
-    - __Team member Misconduct Issues Subject to Progressive Action:__
-        - Discrimination
-        - Inadequate performance based on job description
-        - Sexual harassment
-        - Social media misuse
-        - Theft of company property
-    - __Team member Misconduct Issues Addressed Immediately:__
-        - Confrontational behavior impacting daily work flow
-        - Dress code infractions
-        - Improper use of company time
-- Use progressive disciplinary action following the steps below. Based on the severity of the infringement, managers may decide to begin disciplinary action at higher levels as long as it is in compliance with the company policy. All disciplinary action should be well communicated and recorded by the manager.
-    - Verbal warning
-    - Informal meeting with supervisor
-    - Formal reprimand (begin filing records with HR)
-    - Formal disciplinary meeting
-    - Penalties
-    - Termination
-- Equip managers with guidance on how to enact the disciplinary policy. Managers will follow the below steps when deciding when to use disciplinary action.
-    - Gather Information
-    - Assess severity
-    - Decide how to respond (based on company policy, past offenses, etc)
-    - Communicate with team member when disciplinary action is launched
-    - Document all disciplinary action
-    - Set a time limit for improvements to be made before moving to the next step (i.e. ask behavior to be corrected within 2 weeks before moving from step one to two)
-    - Follow up with the team member to support their progress and growth
-- Include a formal right to appeal in the disciplinary policy.
+- Whenever appropriate, take a progressive approach to disciplinary action, which may include verbal recognition of the issue, a written warning, a probationary period, and/or termination. We reserve the right to forgo/eliminate any of these steps in the event of an egregious issue.
+- Example infractions or issues that may be subject to the disciplinary policy include:
+    - Discrimination
+    - Confrontational behavior impacting daily work flow
+    - Inadequate performance based on job description
+    - Improper use of company time
+    - Sexual harassment
+    - Social media misuse
+    - Theft of company property
 
 ## Purpose
 

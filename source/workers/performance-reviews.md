@@ -13,16 +13,14 @@ Unity Web Agency will:
 
 - Provide quarterly performance evaluations for every full- or part-time team member to maintain or improve job satisfaction and morale. Team members may request evaluation more frequently.
 - Use a 360-degree review process. This enables all team members, including the owner, to provide and receive feedback about their work performance.
-- Maintain or improve each team member's job satisfaction and morale by letting him/her/them know that the supervisor is interested in their job progress and personal development
+- Maintain or improve each team member's job satisfaction and morale by letting them know that the supervisor is interested in their job progress and personal development
 - Provide written guidance for career development, including identifying further formal or informal training opportunities
 - Establish clear and identifiable goals for the team member to work towards
 - Offer open communication between supervisors and team member(s)
 
 If a team member’s job performance is unsatisfactory and is not corrected by coaching, counseling, and training to boost performance to an acceptable level, corrective action may be necessary.
 
-This questionnaire leads team members through preparing for their upcoming QC. In their QC meeting, they will have a chance to review any specific items, as well as address any concerns they may have.
-
-[QC Prep Questionnaire](https://forms.gle/TKPtS8vsDtgbHcXm9)
+This questionnaire leads team members through preparing for their upcoming QC. In their QC meeting, they will have a chance to review any specific items, as well as address any concerns they may have: [QC Prep Questionnaire](https://forms.gle/TKPtS8vsDtgbHcXm9)
 
 ## Purpose
 

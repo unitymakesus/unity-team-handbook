@@ -1,45 +1,56 @@
 <?php
 
 return [
+    'About Unity Web Agency' => [
+        'children' => [
+            'Welcome from the CEO'  => 'about/welcome',
+            'Mission & Values'      => 'about/mission',
+            'Diversity & Inclusion' => 'about/dei',
+            'B Corporation'         => 'about/b-corporation',
+        ]
+    ],
     'Governance' => [
         'children' => [
             'Anti-Harassment'        => 'governance/anti-harassment',
-            'B Corporation'          => 'governance/b-corporation',
             'Code of Ethics'         => 'governance/code-of-ethics',
-            'Diversity & Inclusion'  => 'governance/dei',
             'Financial Transparency' => 'governance/financial-transparency',
             'Impact Reporting'       => 'governance/impact-reporting',
-            'Mission & Values'       => 'governance/mission',
             'Non-Discrimination'     => 'governance/non-discrimination',
             'Stakeholder Engagement' => 'governance/stakeholder-engagement',
             'Whistleblower Policy'   => 'governance/whistleblower',
         ],
     ],
-    'Workers' => [
+    'Company Benefits' => [
         'children' => [
-            'Bereavement Leave'                   => 'workers/bereavement-leave',
             'Breastfeeding'                       => 'workers/breastfeeding',
             'Career Development'                  => 'workers/career-development',
             'Children at Work'                    => 'workers/children-at-work',
+            'Equal Pay'                           => 'workers/equal-pay',
+            'Flextime'                            => 'workers/flextime',
+            'Healthcare Reimbursement'            => 'workers/qsehra',
+            'Remote Work'                         => 'workers/remote-work',
+            'Training'                            => 'workers/training',
+        ],
+    ],
+    'Paid Time Off' => [
+        'children' => [
+            'Bereavement Leave'                   => 'workers/bereavement-leave',
+            'Holidays'                            => 'workers/holidays',
+            'PTO'                                 => 'workers/paid-time-off',
+            'Sick & Safe Leave'                   => 'workers/sick-safe-leave',
+        ],
+    ],
+    'Workplace Policies' => [
+        'children' => [
             'Disciplinary Process'                => 'workers/disciplinary',
             'Drugs & Alcohol'                     => 'workers/drugs-alcohol',
-            'Equal Pay'                           => 'workers/equal-pay',
             'Emergencies'                         => 'workers/emergency',
-            'Flextime'                            => 'workers/flextime',
             'Grievances'                          => 'workers/grievances',
             'Guns & Firearms'                     => 'workers/guns',
-            'Healthcare Reimbursement'            => 'workers/qsehra',
-            'Holidays'                            => 'workers/holidays',
-            'Open Book Management'                => 'workers/open-book-management',
-            'Paid Time Off'                       => 'workers/paid-time-off',
             'Photo Usage'                         => 'workers/photo-usage',
             'Prohibition of Child & Forced Labor' => 'workers/child-forced-labor',
             'QCs / Performance Reviews'           => 'workers/performance-reviews',
-            'Remote Work'                         => 'workers/remote-work',
             'Satisfaction & Engagement Surveys'   => 'workers/satisfaction-engagement',
-            'Sick & Safe Leave'                   => 'workers/sick-safe-leave',
-            // 'Teamwork Tools'                      => 'workers/teamwork-tools',
-            'Training'                            => 'workers/training',
             'Work Hours'                          => 'workers/work-hours',
         ],
     ],
