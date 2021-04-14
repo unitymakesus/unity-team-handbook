@@ -22,7 +22,6 @@ return [
     'Company Benefits' => [
         'children' => [
             'Breastfeeding'                       => 'workers/breastfeeding',
-            'Career Development'                  => 'workers/career-development',
             'Children at Work'                    => 'workers/children-at-work',
             'Equal Pay'                           => 'workers/equal-pay',
             'Flextime'                            => 'workers/flextime',
@@ -41,17 +40,18 @@ return [
     ],
     'Workplace Policies' => [
         'children' => [
-            'Anti-Harassment'                     => 'workers/anti-harassment',
-            'Disciplinary Process'                => 'workers/disciplinary',
-            'Drugs & Alcohol'                     => 'workers/drugs-alcohol',
-            'Emergencies'                         => 'workers/emergency',
-            'Grievances'                          => 'workers/grievances',
-            'Guns & Firearms'                     => 'workers/guns',
-            'Photo Usage'                         => 'workers/photo-usage',
-            'Prohibition of Child & Forced Labor' => 'workers/child-forced-labor',
-            'QCs / Performance Reviews'           => 'workers/performance-reviews',
-            'Satisfaction & Engagement Surveys'   => 'workers/satisfaction-engagement',
-            'Work Hours'                          => 'workers/work-hours',
+            'Anti-Harassment'                      => 'workers/anti-harassment',
+            'Career Development & Internal Hiring' => 'workers/career-development',
+            'Disciplinary Process'                 => 'workers/disciplinary',
+            'Drugs & Alcohol'                      => 'workers/drugs-alcohol',
+            'Emergencies'                          => 'workers/emergency',
+            'Grievances'                           => 'workers/grievances',
+            'Guns & Firearms'                      => 'workers/guns',
+            'Photo Usage'                          => 'workers/photo-usage',
+            'Prohibition of Child & Forced Labor'  => 'workers/child-forced-labor',
+            'QCs / Performance Reviews'            => 'workers/performance-reviews',
+            'Satisfaction & Engagement Surveys'    => 'workers/satisfaction-engagement',
+            'Work Hours'                           => 'workers/work-hours',
         ],
     ],
     'Community' => [
