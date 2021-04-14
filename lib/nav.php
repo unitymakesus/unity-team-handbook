@@ -11,7 +11,6 @@ return [
     ],
     'Governance' => [
         'children' => [
-            'Anti-Harassment'        => 'governance/anti-harassment',
             'Code of Ethics'         => 'governance/code-of-ethics',
             'Financial Transparency' => 'governance/financial-transparency',
             'Impact Reporting'       => 'governance/impact-reporting',
@@ -42,6 +41,7 @@ return [
     ],
     'Workplace Policies' => [
         'children' => [
+            'Anti-Harassment'                     => 'workers/anti-harassment',
             'Disciplinary Process'                => 'workers/disciplinary',
             'Drugs & Alcohol'                     => 'workers/drugs-alcohol',
             'Emergencies'                         => 'workers/emergency',
