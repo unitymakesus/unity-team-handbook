@@ -7,7 +7,7 @@ section: content
 
 # Holidays Policy
 
-Eligible team members receive 12 paid holidays annually. Eligible part-time team members are paid 4 hours for these holidays, regardless of weekly hours worked.
+Eligible team members receive 13 paid holidays annually. Eligible part-time team members are paid 4 hours for these holidays, regardless of weekly hours worked.
 
 ## Eligibility
 
@@ -21,6 +21,7 @@ The paid holiday policy applies to full- or part-time (20 hours per week or more
 | Martin Luther King Jr Day | Jan 18 (Monday)                | Jan 17 (Monday)
 | Good Friday               | Apr 2 (Friday)                 | Apr 15 (Friday)
 | Memorial Day              | May 31 (Monday)                | May 30 (Monday)
+| Juneteenth                | June 18 (Friday)               | June 20 (Monday)
 | Independence Day          | Jul 5 (Monday)                 | Jul 4 (Monday)
 | Labor Day                 | Sept 6 (Monday)                | Sept 5 (Monday)
 | Veterans Day              | Nov 11 (Thursday)              | Nov 11 (Friday)
