@@ -25,6 +25,10 @@ Unity Web Agency pays all team members on a monthly basis via direct deposit. Pa
 
 We believe that all workers need a living wage, which is defined as the amount of income needed for an individual or family to meet basic needs such as housing, food, and transportation without public or private assistance. Unity Web Agency is a member of the [Durham Living Wage Project](https://www.durhamlivingwageproject.org/).
 
+## Bonuses
+
+Full-time and part-time employees are eligible for an annual bonus. Bonuses will be paid out in December of each year that the company meets its financial goals. The bonus may not be available in any given year, based upon the CEO's discretion if the company finances do not allow for it.
+
 ## Responsibilities
 
 Unity Web Agency will be responsible for providing this policy to all team members and contractor workers and for providing ongoing support as needed.
