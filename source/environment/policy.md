@@ -14,6 +14,7 @@ Unity Web Agency will:
 - Abide by any local, state, or federal environmental regulations
 - Purchase recycled content products, including copy paper, bathroom, and kitchen papers
 - Recycle all cardboard, glass, paper, and plastics accepted through the municipal recycling program
+- Collect food waste and compostable materials (e.g. fruit/vegetable scraps, coffee grounds and filters, paper towels) in a bin, which will be composted at a team member's home on a weekly basis
 - Identify appropriate recycling options for hard-to-recycle items
 - Specify that any new purchases for electronic equipment, fixtures, and appliances meet Energy Star or High Efficiency standards
 
