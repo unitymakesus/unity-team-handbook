@@ -15,9 +15,19 @@ This sick leave policy applies to full- or part-time (20 hours per week or more)
 
 ## Accrual
 
-Team members begin to accrue leave under this policy at the start of employment and can use leave anytime thereafter. One hour of paid sick or safe time accrues for each __43__ hours in a pay period, up to a maximum of __40__ hours per year.
+Team members begin to accrue leave under this policy at the start of employment and can use leave anytime thereafter. One hour of paid sick or safe time accrues for each __52__ hours in a pay period, including any holidays, paid time off, or overtime, up to a maximum of __40__ hours per year.
 
-Up to __40__ hours of sick or safe time leave under this policy carries over at the end of each calendar year. However, a team member cannot use, in any one calendar year, more than their maximum annual accrual of 40 hours. Sick or safe time leave is not paid out on termination of employment.
+Unused sick or safe time leave under this policy caries over at the end of each calendar year. Full-time team members may carry over up to __40__ hours. Part-time team members may carry over up to __20__ hours.
+
+However, a team member cannot use, in any one calendar year, more than their maximum annual accrual of hours (40 hours for full-time team members and 20 hours for part-time team members).
+
+Sick or safe time leave is not paid out on termination of employment.
+
+### What if I need to use more sick or safe leave time than I have accrued?
+
+If a team member takes sick or save leave time that exceeds the amount they have accrued OR exceeds their maximum allowed sick or safe leave time per year, the company will deduct the time from their PTO balance.
+
+If a team member does not have enough hours in their PTO balance to cover the sick or safe leave time, the time they take off will be unpaid.
 
 ## Usage
 
