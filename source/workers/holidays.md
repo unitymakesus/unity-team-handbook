@@ -15,15 +15,15 @@ The paid holiday policy applies to full- or part-time (20 hours per week or more
 
 ### Holiday Schedule
 
-| Holiday                   | 2021 Date(s)                   | 2022 Date(s)                 |
-|---------------------------|--------------------------------|------------------------------|
-| New Year's Day            | Jan 1 (Friday)                 | Dec 31, 2021 (Friday)
-| Martin Luther King Jr Day | Jan 18 (Monday)                | Jan 17 (Monday)
-| Good Friday               | Apr 2 (Friday)                 | Apr 15 (Friday)
-| Memorial Day              | May 31 (Monday)                | May 30 (Monday)
-| Juneteenth                | June 18 (Friday)               | June 20 (Monday)
-| Independence Day          | Jul 5 (Monday)                 | Jul 4 (Monday)
-| Labor Day                 | Sept 6 (Monday)                | Sept 5 (Monday)
-| Veterans Day              | Nov 11 (Thursday)              | Nov 11 (Friday)
-| Thanksgiving              | Nov 25 & 26 (Th & Fr)          | Nov 24 & 25 (Th & Fr)
-| Christmas                 | Dec 23, 24 & 25 (Th, Fr & Mo)  | Dec 23, 26 & 27 (Fr, Mo & Tu)
+| Holiday                   | 2022 Date(s)                  | 2023 Date(s)                 |
+|---------------------------|-------------------------------|------------------------------|
+| New Year's Day            | Dec 31, 2021 (Friday)         | Jan 2 (Monday)
+| Martin Luther King Jr Day | Jan 17 (Monday)               | Jan 16 (Monday)
+| Good Friday               | Apr 15 (Friday)               | Apr 7 (Friday)
+| Memorial Day              | May 30 (Monday)               | May 29 (Monday)
+| Juneteenth                | June 20 (Monday)              | June 19 (Monday)
+| Independence Day          | Jul 4 (Monday)                | Jul 4 (Tuesday)
+| Labor Day                 | Sept 5 (Monday)               | Sept 4 (Monday)
+| Veterans Day              | Nov 11 (Friday)               | Nov 10 (Friday)
+| Thanksgiving              | Nov 24 & 25 (Th & Fr)         | Nov 23 & 24 (Th & Fr)
+| Christmas                 | Dec 23, 26 & 27 (Fr, Mo & Tu) | Dec 25, 26 & 27 (Mo, Tu & We)
