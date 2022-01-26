@@ -7,7 +7,7 @@ section: content
 
 # Equal Pay Policy
 
-All permanent team members are paid the same salary of $57,100 per year or the hourly equivalent of $27.62. We created this policy to eliminate the historical pay inequities in the tech industry due to role, gender, race, ethnicity, age, and sexual orientation.
+All permanent team members are paid the same salary of $60,000 per year or the hourly equivalent of $29.02. We created this policy to eliminate the historical pay inequities in the tech industry due to role, gender, race, ethnicity, age, and sexual orientation.
 
 It is the policy of Unity Web Agency to pay team members and raise wages based on the cost of living and company success. Our leadership team meets every 3 months to review company performance and to set upcoming goals.
 
