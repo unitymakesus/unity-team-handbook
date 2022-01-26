@@ -50,6 +50,7 @@ return [
             'Photo Usage'                          => 'workers/photo-usage',
             'Prohibition of Child & Forced Labor'  => 'workers/child-forced-labor',
             'QCs / Performance Reviews'            => 'workers/performance-reviews',
+            'Resignation / Exits'                  => 'workers/resignation',
             'Satisfaction & Engagement Surveys'    => 'workers/satisfaction-engagement',
             'Work Hours'                           => 'workers/work-hours',
         ],
