@@ -45,7 +45,7 @@ Before leaving, exiting team members are expected to:
 
 - Completing work as assigned until the end of their last day
 - Provide access to any files that other team members may need after you leave
-- Return any company property that was loaned to you (books, keys, office furniture, eequipment, etc).
+- Return any company property that was loaned to you (books, keys, office furniture, equipment, etc).
 - Confirm your forwarding address to ensure that benefits and tax information are received in a timely manner.
 
 ### Final pay
