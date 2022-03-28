@@ -31,6 +31,8 @@ The federal wage and hour law does not recognize the advancement of unearned PTO
 
 ## Process
 
+Before requesting time off, team members need to let their manager know the expected dates they will be out. The manager will share these dates with the COO (or other team member in charge of project scheduling) in order to approve the time off request.
+
 Requests for time off should be submitted through [Hrvey](https://www.hrvey.com/dashboard).
 
 The following guidelines should be used when requesting time off:

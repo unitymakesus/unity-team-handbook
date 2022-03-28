@@ -12,7 +12,7 @@ It is the policy of Unity Web Agency to encourage and support team members to de
 Unity Web Agency will:
 
 - Provide professional development opportunities, including cross-skills job training and life-skill training, to all team members
-- Offer up to $500 per team member to cover costs for a course, attendance at a conference, or other approved training opportunity
+- Offer up to $500 per team member per year to cover costs for a course, attendance at a conference, or other approved training opportunity
 - Provide internal mentoring opportunities
 - Provide meals for any lunch-and-learn opportunity that a majority of team members may wish to organize, subject to management approval and up to one per month.
 - Post job openings internally first so that current team members may have opportunities for advancement

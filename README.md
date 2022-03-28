@@ -20,6 +20,7 @@ This sets up everything needed for running Jigsaw as well as the asset build too
 In progress...check back soon!
 
 ## Build Tasks
+* Jigsaw: `vendor/bin/jigsaw build`
 * Dev: `npm run dev`
 * Dev + Browsersync: `npm run watch`
 * Production: `npm run production`

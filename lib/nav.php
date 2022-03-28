@@ -21,8 +21,8 @@ return [
     ],
     'Company Benefits' => [
         'children' => [
-            'Breastfeeding'                       => 'workers/breastfeeding',
-            'Children at Work'                    => 'workers/children-at-work',
+            // 'Breastfeeding'                       => 'workers/breastfeeding',
+            // 'Children at Work'                    => 'workers/children-at-work',
             'Equal Pay'                           => 'workers/equal-pay',
             'Flextime'                            => 'workers/flextime',
             'Healthcare Reimbursement'            => 'workers/qsehra',
@@ -44,9 +44,9 @@ return [
             'Career Development & Internal Hiring' => 'workers/career-development',
             'Disciplinary Process'                 => 'workers/disciplinary',
             'Drugs & Alcohol'                      => 'workers/drugs-alcohol',
-            'Emergencies'                          => 'workers/emergency',
+            // 'Emergencies'                          => 'workers/emergency',
             'Grievances'                           => 'workers/grievances',
-            'Guns & Firearms'                      => 'workers/guns',
+            // 'Guns & Firearms'                      => 'workers/guns',
             'Photo Usage'                          => 'workers/photo-usage',
             'Prohibition of Child & Forced Labor'  => 'workers/child-forced-labor',
             'QCs / Performance Reviews'            => 'workers/performance-reviews',
@@ -57,7 +57,7 @@ return [
     ],
     'Community' => [
         'children' => [
-            'Community Service'                 => 'community/service',
+            // 'Community Service'                 => 'community/community-service',
             'Donations'                         => 'community/donations',
             'Independent Contractors'           => 'community/independent-contractors',
             'Local Hiring'                      => 'community/local-hiring',
@@ -66,7 +66,7 @@ return [
     ],
     'Environment' => [
         'children' => [
-            'Alternative Transit'        => 'environment/alt-transit',
+            // 'Alternative Transit'        => 'environment/alt-transit',
             // 'Corporate Travel'           => 'environment/corporate-travel',
             'Environmental Policy'       => 'environment/policy',
             'Hazardous Waste Disposal'   => 'environment/hazardous-waste',
