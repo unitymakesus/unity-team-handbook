@@ -45,6 +45,8 @@ The following guidelines should be used when requesting time off:
 
 - Please select "Paid Leave" and enter "Bereavement Leave" in the notes field.
 
+Managers should inform upper management (CEO and COO) so that accommodations may be made and understanding given in case the situation impacts the team member's performance. Details will be kept confidential between these parties.
+
 Normally, we don’t require proof of death. However Unity may, in unusual circumstances, require verification of the need for the bereavement leave.
 
 ## Responsibilities

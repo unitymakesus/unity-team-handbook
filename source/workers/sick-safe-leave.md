@@ -58,6 +58,7 @@ The following guidelines should be used in informing the team of an absence:
 - The team member must keep the manager informed of the date they expect to be back.
 - The team member or the manager will post in Hive to inform others of the absence.
 - The manager is responsible for notifying any clients of their absence if the team member is expected to attend any meetings which are scheduled for that day.
+- In the case of a more serious illness, injury, or safety concern, managers should inform upper management (CEO and COO) so that accommodations may be made and understanding given in case the situation impacts the team member's performance. Details will be kept confidential between these parties.
 
 No documentation will be required before three consecutive days of absence. Team members who take sick or safe time leave for three or more consecutive days may be required to provide reasonable certification of the need for leave including, for example, a signed document from a health care professional. Unity may not require disclosure of information relating to domestic abuse, sexual assault, or stalking, or the details of a team member's medical condition as a condition of providing paid sick and safe time leave. If Unity possesses such information, it shall be treated as confidential.
 
