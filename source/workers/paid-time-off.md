@@ -43,4 +43,4 @@ The following guidelines should be used when requesting time off:
 
 Note: If a team member requests time off within the same week, it will be reviewed on a case-by-case basis.
 
-Once time off has been approved, please block the time in your calendar by adding an event called "Name Out" (e.g. "Alisa Out").
+Once time off has been approved, please block the time in your calendar by adding an "out of office" event.
