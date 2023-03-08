@@ -1,3 +1,5 @@
+import docsearch from '@docsearch/js';
+import '@docsearch/css';
 import hljs from 'highlight.js/lib/core';
 import html from 'highlight.js/lib/languages/xml';
 import css from 'highlight.js/lib/languages/css';
@@ -5,6 +7,17 @@ import scss from 'highlight.js/lib/languages/scss';
 import javascript from 'highlight.js/lib/languages/javascript';
 import php from 'highlight.js/lib/languages/php';
 import bash from 'highlight.js/lib/languages/bash';
+
+/**
+ * Site search.
+ */ 
+docsearch({
+  container: '#docsearch',
+  appId: docSearchData.appId,
+  apiKey: docSearchData.apiKey,
+  indexName: docSearchData.indexName,
+  debug: true,
+});
 
 /**
  * Menu state / interaction.

@@ -8,6 +8,11 @@ return [
     'siteDescription' => 'Policies and practices for our awesome team.',
     'production'      => false,
 
+    // Algolia search
+    'docsearchAppId' => 'MAWZFT2YPY',
+    'docsearchApiKey' => '341c2b3ea225c0a2b80832c73eb59a45',
+    'docsearchIndexName' => 'team-handbook-unitywebagency',
+
     // navigation menu
     'navigation' => require_once('lib/nav.php'),
 
