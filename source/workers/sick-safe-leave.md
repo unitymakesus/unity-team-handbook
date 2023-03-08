@@ -57,6 +57,7 @@ The following guidelines should be used in informing the team of an absence:
 - The team member must inform the manager before or at the start of the team member's work day.
 - The team member must keep the manager informed of the date they expect to be back.
 - The team member or the manager will post in Hive to inform others of the absence.
+- The team member will submit time off in [Hrvey](https://www.hrvey.com/dashboard). Regardless of if this is for sick or safe leave, please select "Sick leave" as the type of request.
 - The manager is responsible for notifying any clients of their absence if the team member is expected to attend any meetings which are scheduled for that day.
 - In the case of a more serious illness, injury, or safety concern, managers should inform upper management (CEO and COO) so that accommodations may be made and understanding given in case the situation impacts the team member's performance. Details will be kept confidential between these parties.
 
