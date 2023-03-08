@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl'         => '',
+    'baseUrl'         => 'https://unity-team-handbook.test',
     'siteName'        => 'Unity Web Agency Team Handbook',
     'siteDescription' => 'Policies and practices for our awesome team.',
     'production'      => false,
