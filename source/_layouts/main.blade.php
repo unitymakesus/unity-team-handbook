@@ -14,7 +14,7 @@
               </nav>
             </div>
           </div>
-          <div id="content" class="content w-full lg:w-3/5 break-words pb-16 lg:pl-4">
+          <div id="content" class="DocSearch-content content w-full lg:w-3/5 break-words pb-16 lg:pl-4">
             <article>
               @yield('content')
               @if ($page->getExtension() === 'md')
