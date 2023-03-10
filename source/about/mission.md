@@ -39,7 +39,7 @@ The following lists include examples of mindsets, behaviors, and actions that il
 - Be inquisitive &mdash; explore, research, learn, listen, seek to understand &mdash; without presumption.
 - Improvise and push the boundaries of what's been done before.
 - Approach challenges with a "beginner's mind" to see things from a new perspective.
-- Keep and eye out for creative improvement opportunities even if they fall outside of our standard process.
+- Keep an eye out for creative improvement opportunities even if they fall outside of our standard process.
 - Trust yourself.
 
 ### Invest in the Greater Good
