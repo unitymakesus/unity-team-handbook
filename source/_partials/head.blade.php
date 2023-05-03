@@ -7,5 +7,6 @@
   <meta name="robots" content="noindex,nofollow">
   <link rel="icon" href="/assets/images/favicon.png">
   <link href="https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://MAWZFT2YPY-dsn.algolia.net" crossorigin />
   <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
