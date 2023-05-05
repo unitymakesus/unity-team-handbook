@@ -30,7 +30,7 @@ Eligible team members may request reimbursement for qualified expenses incurred 
 
 ## Accrual
 
-Eligible team members will accrue __$454.17__ per month to reimburse health insurance premiums and eligible medical expenses. The maximum payout per year is $5,450.
+Eligible team members will accrue __$487.50__ per month to reimburse health insurance premiums and eligible medical expenses. The maximum payout per year is $5,850.
 
 A QSEHRA is a health reimbursement arrangement, so there is not an "account." All reimbursements given through the QSEHRA are funded by Unity.
 
