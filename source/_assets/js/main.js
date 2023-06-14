@@ -12,11 +12,10 @@ import bash from 'highlight.js/lib/languages/bash';
  * Site search.
  */ 
 docsearch({
-  container: '#docsearch-container',
+  container: '#docsearch',
   appId: docSearchData.appId,
   apiKey: docSearchData.apiKey,
   indexName: docSearchData.indexName,
-  debug: true,
 });
 
 /**
