@@ -35,6 +35,7 @@ return [
             'Bereavement Leave'                   => 'workers/bereavement-leave',
             'Holidays'                            => 'workers/holidays',
             'PTO'                                 => 'workers/paid-time-off',
+            'Parental Involvement Leave'          => 'workers/parental-involvement-leave',
             'Sick & Safe Leave'                   => 'workers/sick-safe-leave',
         ],
     ],
