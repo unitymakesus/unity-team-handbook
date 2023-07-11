@@ -25,7 +25,7 @@ Unused PTO is eligible to be paid out at the end of employment, based on certain
 
 In certain circumstances, Unity may allow team members to take PTO before they have accrued it, meaning they would have a negative balance of PTO. Requests for using unearned PTO will be reviewed on a case-by-case basis.
 
-Team members may recoup a negative PTO balance by continuing to work for Unity until they earn enough paid time off to have a positive PTO balance. The maximum negative PTO balance for full-time team members is __16__ hours and for part-time team members is __8__ hours.
+Team members may recoup a negative PTO balance by continuing to work for Unity until they earn enough paid time off to have a positive PTO balance. The maximum negative PTO balance for full-time team members is __20__ hours and for part-time team members is __10__ hours.
 
 If a team member leaves Unity with a negative PTO balance, Unity will deduct the amount that was advanced from their final paycheck.
 
