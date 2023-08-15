@@ -28,6 +28,7 @@ return [
             'Healthcare Reimbursement'            => 'workers/qsehra',
             'Remote Work'                         => 'workers/remote-work',
             'Training'                            => 'workers/training',
+            'Travel Reimbursement'                => 'workers/travel-reimbursement',
         ],
     ],
     'Paid Time Off' => [
